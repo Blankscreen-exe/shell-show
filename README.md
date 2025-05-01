@@ -18,4 +18,4 @@ python3 main.py /path/to/image
 
 ## Preview
 
-![Screenshot_1](https://github.com/user-attachments/assets/ea4c0993-d3c1-4657-a024-757ab1390af8)
+![preview](docs/assets/preview.png)
